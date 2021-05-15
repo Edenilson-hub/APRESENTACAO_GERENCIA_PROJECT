@@ -70,19 +70,17 @@ header{
 	color: black;
 }
 .barra{
-	background-color: burlywood
-		
+	background-color: burlywood;
+	text-align: center;
 }
 .barra h3{
 	background-color: white;
-	width: 300px;
-	height: 150px;
+	width: 200px;
+	height: 100px;
 	color: saddlebrown;
-	
-	
 }
 .barra ul{
-	text-align: right;
+	text-align: inherit;
 }
 footer{
 	background-color: chocolate;
